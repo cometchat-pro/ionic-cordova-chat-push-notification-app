@@ -1,3 +1,7 @@
+<p align="center">
+  <img alt="CometChat" src="https://assets.cometchat.io/website/images/logos/banner.png">
+</p>
+
 # Token-based Push Notifications Sample App
 
 This Sample app will guide you to setup Push Notifications in your Ionic application.
